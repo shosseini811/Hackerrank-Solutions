@@ -1,3 +1,3 @@
 # Hackerrank-Solutions
 
-https://www.hackerrank.com/challenges/grading/problem
+https://www.hackerrank.com/
