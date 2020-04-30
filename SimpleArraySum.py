@@ -13,7 +13,6 @@ def simpleArraySum(ar):
     for i in range(len(ar)):
         sum = sum + ar[i]
     return sum
-    # Write your code here.
     #
 
 if __name__ == '__main__':
